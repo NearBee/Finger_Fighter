@@ -1,6 +1,7 @@
 # _**Finger Fighter**_
-#### Video Demo:  <URL HERE>
+
 #### Description: 
+
 Finger Fighter is a simple 2-phase Rock-Paper-Scissors game that has RPG elements to it using a basic RPS ruleset to allow for easier understandability of the combat mechanics to the game.
 
 I went through many iterations of the combat system and ultimately came to the conclusion that I didn't want to simply add, "Rock is beaten by Paper, whereas Paper is beaten by Scissors" but rather go a step further to implementing "health" in my Entities Class to add an idea that it's more of a combat situation with moves being [Rock] [Paper] [Scissors] wherein there is an ATTACK phase and a DEFENSE phase and you as the player would choose Rock Paper or Scissors in each phase to be played against the enemies choice to determine how much damage has been done (During the ATTACK phase) or how much damage was taken (During the DEFENSE phase).
